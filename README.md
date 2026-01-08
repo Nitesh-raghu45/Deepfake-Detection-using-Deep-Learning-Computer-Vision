@@ -1,3 +1,4 @@
-# Deepfake Detection using Deep Learning & Computer Vision
+# Deepfake Detection using EfficientNetB4 (TensorFlow)
+📌 Project Overview
 
-This project implements an AI-based Deepfake Detection system that identifies whether an image/video frame is real or fake. It combines YOLO-based face detection with a CNN classifier trained using TensorFlow/Keras to perform accurate deepfake classification.
+This project focuses on detecting deepfake images/videos using a Convolutional Neural Network (CNN) based on EfficientNetB4 implemented in TensorFlow/Keras. The model is trained to distinguish between real and fake faces by learning subtle visual artifacts introduced during deepfake generation.
